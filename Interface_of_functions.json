@@ -1,0 +1,27 @@
+[
+  {
+    "name": "read_and_calculate_average",
+    "return_val": "float",
+    "params_type_list": [ "int", "int", "int", "int", "int" ]
+  },
+  {
+    "name": "min_elemet_in_massive",
+    "return_val": "int",
+    "params_type_list": [ "int*", "int" ]
+  },
+  {
+    "name": "print_grade",
+    "return_val": "string",
+    "params_type_list": [ "int" ]
+  },
+  {
+    "name": "sum_element_in_massive",
+    "return_val": "int",
+    "params_type_list": [ "int*", "int" ]
+  },
+  {
+    "name": "negative_numbers_replace",
+    "return_val": "int",
+    "params_type_list": [ "int*", "int" ]
+  }
+]
